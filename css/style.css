@@ -1,0 +1,62 @@
+*{margin: 0%;}
+*{padding: 0%;}
+.header{
+overflow: hidden;
+border-bottom: 1px solid #1b1f1f;
+margin: 20px 60px;
+}
+.header img{
+    margin: 10px;
+    float: left;
+}
+.header ul{
+    margin: 10px;
+    float: right;
+}
+.header ul li{
+    list-style: none;
+    float: left;
+    padding: 7px;
+    color: #474e53;
+
+}
+.online_class{
+    margin: 30px 600px;
+}
+.online_class h1{
+    color: rgb(20, 17, 41);
+}
+.online_class h2{
+    text-align: center;
+    color: rgb(55, 43, 235);
+
+}
+.online_class h6{
+    color: rgb(113, 111, 126);
+    text-align: center;
+}
+.online_class img{
+    margin: 5px 0px
+}
+.project{
+
+}
+.project h2{
+
+}
+.project h6{
+
+}
+.images{
+
+}
+.images img one{
+
+}
+.images img two{
+
+}
+.images img three{
+
+}
+
